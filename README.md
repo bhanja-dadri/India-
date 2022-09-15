@@ -17,8 +17,8 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf TEAM-DAKU`
-- `git clone https://github.com/DAKU-MAKER/TEAM-DAKU`
-- `cd TEAM-DAKU`
+- `git clone https://github.com/bhanja-dadri/India`
+- `cd India`
 - `python Daku.py`
      
 
